@@ -2,23 +2,23 @@
 
 ## tech stacks
 
-​		 Frontend 
+Frontend 
 
-* Create-react-app
+  * Create-react-app
 
-* React.js
+  * React.js
 
-* Ant design
+  * Ant design
 
-* Pub-Sub.js
+  * Pub-Sub.js
 
-* Axios
+  * Axios
 
-* Http-proxy-middleware
+  * Http-proxy-middleware
 
-* Less
+  * Less
 
-  backend 
+Backend 
 
   * Nodejs
   * Npm
